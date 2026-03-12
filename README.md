@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/TypeScript-Strict-3178C6?logo=typescript&logoColor=white" alt="TypeScript Strict" />
   </a>
   <a href="/.github/workflows/deploy.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/YrustPd/cf-xray-proxy/deploy.yml?branch=main&label=deploy" alt="Deploy" />
+    <img src="https://img.shields.io/github/actions/workflow/status/PdYrust/cf-xray-proxy/deploy.yml?branch=main&label=deploy" alt="Deploy" />
   </a>
   <a href="/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License" />

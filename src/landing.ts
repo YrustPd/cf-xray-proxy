@@ -1,13 +1,13 @@
 export function renderLandingPage(): Response {
-  const telegramUrl = 'https://t.me/Cortex_HQ';
-  const githubUrl = 'https://github.com/YrustPd/cf-xray-proxy.git';
+  const telegramUrl = 'https://t.me/PdYrust';
+  const githubUrl = 'https://github.com/PdYrust/cf-xray-proxy';
 
   const html = `<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="Cortex HQ and YrustPd project links" />
+    <meta name="description" content="PdYrust project links" />
     <title>cf-xray-proxy</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -241,7 +241,7 @@ export function renderLandingPage(): Response {
             </svg>
           </div>
           <p class="label">Telegram</p>
-          <p class="url">t.me/Cortex_HQ</p>
+          <p class="url">t.me/PdYrust</p>
         </a>
 
         <a class="card github" href="${githubUrl}" target="_blank" rel="noopener noreferrer">
@@ -251,11 +251,11 @@ export function renderLandingPage(): Response {
             </svg>
           </div>
           <p class="label">GitHub</p>
-          <p class="url">github.com/YrustPd/cf-xray-proxy.git</p>
+          <p class="url">github.com/PdYrust/cf-xray-proxy</p>
         </a>
       </section>
 
-      <p class="note">Built and maintained by YrustPd</p>
+      <p class="note">Built and maintained by PdYrust</p>
     </main>
   </body>
 </html>`;

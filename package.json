@@ -1,9 +1,9 @@
 {
-  "name": "@yrustpd/cf-xray-proxy",
+  "name": "@pdyrust/cf-xray-proxy",
   "version": "1.0.0",
   "private": true,
   "description": "Cloudflare Worker reverse proxy frontend for VLESS & VMess (xhttp / httpupgrade / ws transports) – forwards upgrade requests to backend Xray/sing-box",
-  "author": "YrustPd",
+  "author": "PdYrust",
   "license": "MIT",
   "type": "module",
   "engines": {
